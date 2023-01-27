@@ -1,11 +1,10 @@
 import React from "react";
 import { Cursor, useTypewriter } from "react-simple-typewriter";
-import BackgroundCircle from "./BackgroundCircle";
+
 import hero from "../images/hero.jpg";
-import { NavLink } from "react-router-dom";
 
 export default function Hero() {
-  const [text, count] = useTypewriter({
+  const [text] = useTypewriter({
     words: ["Hi, The Name's Karam", "Fitness Freak 🏋️", "<ButLovesToCode />"],
     loop: true,
     delaySpeed: 2000,

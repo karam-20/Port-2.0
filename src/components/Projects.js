@@ -4,7 +4,6 @@ import { AiFillGithub } from "react-icons/ai";
 import { motion } from "framer-motion";
 
 export default function Projects() {
-  const { desc1 } = project;
   return (
     <div className="h-screen relative flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0">
       <h3 className="absolute top-28 md:top-24 uppercase tracking-[18px] text-gray-500 text-xl">
