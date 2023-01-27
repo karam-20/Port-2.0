@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/Port-2.0/static/css/main.7ee4489f.css",
+    "main.js": "/github.io/Port-2.0/static/js/main.06b0da52.js",
+    "static/js/787.f2fdc94e.chunk.js": "/github.io/Port-2.0/static/js/787.f2fdc94e.chunk.js",
+    "static/media/about.jpg": "/github.io/Port-2.0/static/media/about.5acbdd0e9ab13aa74fb4.jpg",
+    "static/media/1-proj.png": "/github.io/Port-2.0/static/media/1-proj.27289f7fd2cf35aac58c.png",
+    "static/media/2-proj.png": "/github.io/Port-2.0/static/media/2-proj.45ba3a3615ee72b97f6d.png",
+    "static/media/hero.jpg": "/github.io/Port-2.0/static/media/hero.6817662f3e7af56e62c5.jpg",
+    "index.html": "/github.io/Port-2.0/index.html",
+    "main.7ee4489f.css.map": "/github.io/Port-2.0/static/css/main.7ee4489f.css.map",
+    "main.06b0da52.js.map": "/github.io/Port-2.0/static/js/main.06b0da52.js.map",
+    "787.f2fdc94e.chunk.js.map": "/github.io/Port-2.0/static/js/787.f2fdc94e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee4489f.css",
+    "static/js/main.06b0da52.js"
+  ]
+}
