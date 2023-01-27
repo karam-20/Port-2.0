@@ -1,13 +1,13 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@layer components {
+  .hero-btn {
+    @apply px-6 py-2 m-5 border border-[black] rounded-md font-semibold uppercase text-xs tracking-widest text-black transition-all hover:bg-black hover:text-[#fff];
+  }
+  .contactinput {
+    @apply outline-none bg-slate-400/20 rounded-sm border-b px-4 py-2.5 text-gray-500 placeholder-gray-500 transition-all;
+  }
 }
